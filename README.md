@@ -6,8 +6,6 @@ The QuestionCrafter Agent is a cutting-edge, LLM-driven "tool for thought" desig
 
 Utilizing a novel reasoning algorithm that integrates diverse expert personas and a graph-based reasoning rhythm, QuestionCrafter systematically refines questions, making them more insightful, thought-provoking, and suited for in-depth exploration across various domains such as academic research, business strategy, or personal inquiry.
 
-This project, which recently won 1st place at an AI for Thought Hackathon at AGI House SF, showcases the potential of AI to enhance human cognitive processes through creative techniques.
-
 ## Motivation: Navigating the Information Age Through Better Questions
 
 In an era where we are inundated with information, the ability to ask the right questions has become more crucial than ever. QuestionCrafter is built on the premise that:
